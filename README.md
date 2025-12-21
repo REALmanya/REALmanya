@@ -22,7 +22,7 @@ I’m now expanding these computational skills into **astrophysical simulations 
 ## 🌌 Astro & Physics Projects (building now)
 
 - 🛰️ **BlackHole-Orbit-Sim** – Test particle orbits around a compact object  
-- 🕳️ **DarkMatter-Halo-Model** – NFW halo + rotation curves  
+- 🕳️ **Acceleration-Disk-AGN** –  To plot luminosity and radial flux
 - 🌠 **Galaxy-Evolution-JWST** – Visualising public JWST galaxy data  
 
 ---

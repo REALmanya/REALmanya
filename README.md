@@ -1,32 +1,75 @@
-# Hi, I'm Manya Johari 👋
+# Manya Johari
 
-**Aerospace Engineering Student (2nd Year) | Aspiring Astrophysics Researcher and Technical Innovator**
-
-- 🎓 B.Tech Aerospace Engineering, M.S. Ramaiah University of Applied Sciences, Bengaluru  
-- 🌌 Research interests: **Supermassive black holes, dark matter, galaxy dynamics, computational astrophysics**  
-- 🧮 Technical interests: **Scientific Python, numerical modelling, physics-informed ML (PINNs), data science**
-
-## 🔭 Current Research
-
-- **Review Paper:** Fluid–Structure Interaction (FSI) in Hypersonic Flow  
-- **Computational Paper:** PINN Reconstruction of Shock-Shock Interactions in Hypersonic Double-Cone Flows   
-
-I’m now expanding these computational skills into **astrophysical simulations and data-driven cosmology**.
-
-## 🧠 Skills
-
-- **Programming:** Python, NumPy, Matplotlib, Jupyter Notebook, Git  
-- **Concepts:** Fluid dynamics, hypersonic flow, numerical methods, basic astrophysics  
-- **Tools:** GitHub, LaTeX (basic), VS Code
-
-## 🌌 Astro & Physics Projects (building now)
-
-- 🛰️ **BlackHole-Orbit-Sim** – Test particle orbits around a compact object  
-- 🕳️ **Acceleration-Disk-AGN** –  To plot luminosity and radial flux
-- 🌠 **Galaxy-Evolution-JWST** – Visualising public JWST galaxy data  
+Undergraduate student in **Aerospace Engineering** with a strong interest in **computational astrophysics, high-speed aerodynamics, and physics-informed machine learning**.  
+My work focuses on using **numerical methods and data-driven models** to study complex physical systems in both **astrophysical** and **hypersonic flow** regimes.
 
 ---
 
-📫 **Reach me:**  
-- LinkedIn: *https://www.linkedin.com/in/manya-johari-702b03328/*  
-- Email: *manyajohari16@gmail.com*
+## 🎓 Academic Background
+- **B.Tech Aerospace Engineering (2nd Year)**  
+  M.S. Ramaiah University of Applied Sciences, Bengaluru, India  
+
+---
+
+## 🔬 Research Interests
+- Computational astrophysics and galaxy dynamics  
+- Accretion physics and compact objects  
+- Aerodynamics and high-speed / hypersonic flows  
+- Physics-informed neural networks (PINNs) for PDE-based systems  
+- Numerical modeling and scientific computing  
+
+---
+
+## 🧪 Current Research Work
+
+### Review Paper (ongoing)
+**Fluid–Structure Interaction in Hypersonic Flows**  
+- Conducting a structured literature review on FSI phenomena in hypersonic flow regimes  
+- Synthesizing numerical, experimental, and modeling approaches  
+- Identifying open challenges in coupling strategies and computational scalability  
+
+### Computational Research Project
+**PINN-based Numerical Reconstruction of Shock–Shock Interaction in Hypersonic Double-Cone Flows**  
+- Applying physics-informed neural networks to characterize shock–shock interaction  
+- Integrating governing equations and boundary constraints into neural network training  
+
+---
+
+## 🧠 Technical Skills
+
+### Programming & Scientific Computing
+- Python  
+- NumPy, Matplotlib  
+- PyTorch (Physics-Informed Neural Networks)  
+- Jupyter Notebook  
+- Git  
+
+### Mathematical & Physical Foundations
+- Fluid dynamics and hypersonic flow fundamentals  
+- Numerical methods for differential equations  
+- Introductory astrophysics and orbital dynamics  
+
+### Tools
+- GitHub (research code management)  
+- LaTeX (basic scientific writing)  
+- VS Code  
+
+---
+
+## 🌌 Astrophysics & Physics Projects
+
+- **BlackHole-Orbit-Sim**  
+  Numerical simulation of test-particle orbits around compact objects, with validation through limiting-case (Newtonian) behavior.
+
+- **Accretion-Disk-AGN**  
+  Exploratory modeling of radial flux and luminosity trends in accretion disk toy models.
+
+- **Galaxy-Evolution-JWST** *(in progress)*  
+  Visualization and exploration of publicly available JWST galaxy datasets.
+
+---
+
+## 📫 Contact
+- **Email:** manyajohari16@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/manya-johari-702b03328/
+
